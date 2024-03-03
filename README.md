@@ -35,10 +35,6 @@
   <img width="12" />
   <img src="https://github.com/Ilovemyhous/Ilovemyhous/assets/50217071/4bc39f54-a97c-4852-8428-f2f758fbb083" height="40" alt="phpstorm logo"/>
   <img width="12" />
-  <img src="https://github.com/Ilovemyhous/Ilovemyhous/assets/50217071/9bd534ac-84c6-4ca2-b3f8-59f2b5a993ba" height="40" alt="webstorm logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
 </div>
 
@@ -49,11 +45,21 @@
 ###
 
 <div align="center">
-  <img widhth="12" src="https://cdn.simpleicons.org/unity/FFFFFF" height="40" alt="unity logo"  />
+  <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="40" alt="unity logo"  />
+</div>
+
+###
+
+<h3 align="center">How to contact me:</h3>
+
+###
+
+<div align="center">
+  <a href="https://discord.com/users/552544125984047127">Discord</a>
 </div>
 
 ###
 
 <div align="center">
-  <img width="15%" src="https://cdn.discordapp.com/attachments/1020435078364549225/1021063331412443338/image0.gif"  />
+  <img width="15%" src="https://gcdnb.pbrd.co/images/ipG9kY4yodaD.gif"  />
 </div>
