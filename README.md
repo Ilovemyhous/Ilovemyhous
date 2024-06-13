@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="center">Languages in which I program:</h3>
+<h3 align="center">Languages in which I code:</h3>
 
 ###
 
@@ -19,7 +19,10 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/mariadb" height="40" alt="mariadb logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
 </div>
 
 ###
@@ -55,11 +58,11 @@
 ###
 
 <div align="center">
-  <a href="https://discord.com/users/552544125984047127">Discord</a>
+  <a href="https://discord.com/users/552544125984047127"><img src="https://cdn.simpleicons.org/discord" height="40" alt="discord logo"  /></a>
 </div>
 
 ###
 
 <div align="center">
-  <img width="15%" src="https://gcdnb.pbrd.co/images/ipG9kY4yodaD.gif"  />
+  <img width="15%" src="https://media.discordapp.net/attachments/1020435078364549225/1021063331412443338/image0.gif?ex=666c51d4&is=666b0054&hm=819380331b209ba81f1fbc01aa70db5c789122a9d8bd194138ec154b36e6d857&=&width=448&height=468"  />
 </div>
