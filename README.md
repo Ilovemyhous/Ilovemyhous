@@ -34,8 +34,6 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="vscode logo"  />
-  <img width="12" />
   <img src="https://github.com/Ilovemyhous/Ilovemyhous/assets/50217071/4bc39f54-a97c-4852-8428-f2f758fbb083" height="40" alt="phpstorm logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
@@ -59,10 +57,4 @@
 
 <div align="center">
   <a href="https://discord.com/users/552544125984047127"><img src="https://cdn.simpleicons.org/discord" height="40" alt="discord logo"  /></a>
-</div>
-
-###
-
-<div align="center">
-  <img width="15%" src="https://media.discordapp.net/attachments/1020435078364549225/1021063331412443338/image0.gif?ex=666c51d4&is=666b0054&hm=819380331b209ba81f1fbc01aa70db5c789122a9d8bd194138ec154b36e6d857&=&width=448&height=468"  />
 </div>
