@@ -32,11 +32,13 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo with Tux"  />
   <img width="12" />
-  <img src="https://github.com/Ilovemyhous/Ilovemyhous/assets/50217071/4bc39f54-a97c-4852-8428-f2f758fbb083" height="40" alt="phpstorm logo"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CLion-Dark.svg" height="40" alt="CLion logo"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
+  <img src="https://github.com/Ilovemyhous/Ilovemyhous/assets/50217071/4bc39f54-a97c-4852-8428-f2f758fbb083" height="40" alt="PhpStorm logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="Blender logo"  />
 </div>
 
 ###
